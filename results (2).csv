@@ -1,0 +1,8 @@
+method,alpha,recall_at_10,cohort_size,excluded_unseen_ids,excluded_no_eligible_user,mean_popularity,iterations,residual,converged,split,source
+popularity,,0.076023,861,13,81,272.0,,,,test,independent_python_reimplementation
+pagerank,0.5,0.079693,861,13,81,257.8,19,5.547e-07,yes,test,independent_python_reimplementation
+ppr,0.5,0.112189,861,13,81,244.2,22,6.156e-07,yes,test,independent_python_reimplementation
+ppr_alpha_sweep,0.5,0.114483,846,,,,22,6.156e-07,yes,val,independent_python_reimplementation
+ppr_alpha_sweep,0.7,0.104797,846,,,,42,8.072e-07,yes,val,independent_python_reimplementation
+ppr_alpha_sweep,0.85,0.090021,846,,,,92,9.883e-07,yes,val,independent_python_reimplementation
+ppr_alpha_sweep,0.95,0.073750,846,,,,315,9.963e-07,yes,val,independent_python_reimplementation

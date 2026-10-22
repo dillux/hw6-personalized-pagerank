@@ -1,0 +1,21 @@
+user_id,method,alpha,rank,movie_id,title,genres,score,training_popularity,source
+615,ppr,0.5,1,50,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War,0.0007364625,449,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,2,98,"Silence of the Lambs, The (1991)",Drama|Thriller,0.0005706791,308,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,3,174,Raiders of the Lost Ark (1981),Action|Adventure,0.0005548835,312,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,4,181,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War,0.0005094617,339,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,5,258,Contact (1997),Drama|Sci-Fi,0.0005019724,307,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,6,318,Schindler's List (1993),Drama|War,0.0004801926,224,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,7,1,Toy Story (1995),Animation|Children's|Comedy,0.0004551609,288,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,8,64,"Shawshank Redemption, The (1994)",Drama,0.0004533540,228,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,9,56,Pulp Fiction (1994),Crime|Drama,0.0004516760,263,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+615,ppr,0.5,10,172,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War,0.0004390550,261,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,1,50,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War,0.0007908595,449,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,2,100,Fargo (1996),Crime|Drama|Thriller,0.0005497338,377,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,3,1,Toy Story (1995),Animation|Children's|Comedy,0.0005009610,288,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,4,79,"Fugitive, The (1993)",Action|Thriller,0.0004785162,230,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,5,64,"Shawshank Redemption, The (1994)",Drama,0.0004464079,228,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,6,318,Schindler's List (1993),Drama|War,0.0004341745,224,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,7,258,Contact (1997),Drama|Sci-Fi,0.0004151352,307,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,8,7,Twelve Monkeys (1995),Drama|Sci-Fi,0.0004039787,234,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,9,357,One Flew Over the Cuckoo's Nest (1975),Drama,0.0003924978,202,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
+897,ppr,0.5,10,191,Amadeus (1984),Drama|Mystery,0.0003832334,194,independent_python_reimplementation; ids+order+popularity verified identical to the browser application
